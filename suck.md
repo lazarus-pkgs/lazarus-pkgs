@@ -3,7 +3,9 @@ Grab news from a remote NNTP server and feed them to another or save locally.
 
 # Previous maintainers
 Tim Smith
+
 Sven Goldt
+
 Robert A. Yetman
 
 # Version before adoption
