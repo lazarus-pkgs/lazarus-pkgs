@@ -6,5 +6,11 @@ Tim Smith
 Sven Goldt
 Robert A. Yetman
 
+# Version before adoption
+4.3.2
+
+# Current version
+4.3.3
+
 # Repository
 [https://github.com/lazarus-pkgs/suck](https://github.com/lazarus-pkgs/suck)
