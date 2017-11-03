@@ -5,4 +5,4 @@ Join us to save lives.
 
 # Packages
 
-* suck
+* [suck](suck.md)
