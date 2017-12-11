@@ -16,3 +16,7 @@ Robert A. Yetman
 
 # Repository
 [https://github.com/lazarus-pkgs/suck](https://github.com/lazarus-pkgs/suck)
+
+# Contained in
+* Debian sid
+* openSUSE
