@@ -6,3 +6,4 @@ Join us to save lives.
 # Packages
 
 * [suck](suck.md)
+* [panini](panini.md)
