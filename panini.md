@@ -17,3 +17,5 @@ Thomas K. Sharpless
 [Details](https://github.com/lazarus-pkgs/panini/blob/master/INSTALL.md).
 
 An AppImage is available at the [downloads](https://github.com/lazarus-pkgs/panini/releases) page.
+
+[Distributions](https://repology.org/metapackage/panini/versions) containing panini.

@@ -17,6 +17,5 @@ Robert A. Yetman
 # Repository
 [https://github.com/lazarus-pkgs/suck](https://github.com/lazarus-pkgs/suck)
 
-# Contained in
-* Debian sid
-* openSUSE
+# Installation
+[Distributions](https://repology.org/metapackage/suck/versions) containing suck.
