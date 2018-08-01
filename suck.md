@@ -12,7 +12,7 @@ Robert A. Yetman
 4.3.2
 
 # Current version
-4.3.3
+4.3.4 (2018-08-01)
 
 # Repository
 [https://github.com/lazarus-pkgs/suck](https://github.com/lazarus-pkgs/suck)
