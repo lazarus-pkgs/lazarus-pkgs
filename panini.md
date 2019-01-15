@@ -8,7 +8,7 @@ Thomas K. Sharpless
 0.71.104
 
 # Current version
-0.72.0 (2017-12-11)
+0.73.0 (2019-01-15)
 
 # Repository
 [https://github.com/lazarus-pkgs/panini](https://github.com/lazarus-pkgs/panini)
